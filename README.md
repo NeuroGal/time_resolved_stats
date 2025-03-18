@@ -1,7 +1,8 @@
 # time_resolved_stats
 Matlab toolbox with functions for performing statistical quantification and correction for multiple comparisons using permutation-based methods (intended as correction across time-points, but you can use it also for time x frequency data and more).
 
-This was written as part of the analysis for the following manuscript (so please cite if you use it): Vishne et al., Cell Reports 2023, 'Distinct Ventral Stream and Prefrontal Cortex Representational Dynamics during Sustained Conscious Visual Perception' (biorxiv DOI, to be updated when formally published): https://doi.org/10.1101/2022.08.02.502469.
+This was written as part of the analysis for the following manuscript (so please cite if you use it):
+Vishne et al., Cell Reports 2023, 'Distinct Ventral Stream and Prefrontal Cortex Representational Dynamics during Sustained Conscious Visual Perception' (biorxiv DOI, to be updated when formally published): https://doi.org/10.1016/j.celrep.2023.112752.
 
 Code from this repository is used by my repositories for single-subject decoding (**iEEG_decoding_minitoolbox**, https://github.com/NeuroGal/iEEG_decoding_minitoolbox) and representational similarity analyses (**Gals_RSA_toolbox**, https://github.com/NeuroGal/Gals_RSA_toolbox).
 
